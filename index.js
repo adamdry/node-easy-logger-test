@@ -10,5 +10,5 @@ function handleRequest(request, response) {
 }
 
 http.createServer().listen(5924, function(){
-  console.log('listening on *:5924');
+    console.log('listening on *:5924');
 });
