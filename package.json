@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-easy-logger": "^1.0.1"
+  }
+}
